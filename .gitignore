@@ -8,3 +8,6 @@
 out
 gen
 static
+kilogram/__pycache__/
+kilogram/migrations/__pycache__/
+mysite/__pycache__/
