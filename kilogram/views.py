@@ -7,8 +7,9 @@ from django.core.urlresolvers import reverse_lazy
 from django.contrib.auth.decorators import login_required
 
 from .forms import CreateUserForm, UploadForm
-# Create your views here.
 
+
+# Create your views here.
 @login_required
 def upload(request):
     if request.method == "POST":
