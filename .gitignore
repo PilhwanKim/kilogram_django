@@ -8,6 +8,7 @@
 out
 gen
 static
+uploads
 kilogram/__pycache__/
 kilogram/migrations/__pycache__/
 mysite/__pycache__/
